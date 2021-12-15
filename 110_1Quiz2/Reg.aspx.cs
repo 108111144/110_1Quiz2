@@ -10,5 +10,10 @@ namespace _110_1Quiz2 {
         protected void Page_Load(object sender, EventArgs e) {
 
         }
+
+        protected System.Void Page_Load(System.Object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
